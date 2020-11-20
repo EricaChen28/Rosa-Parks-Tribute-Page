@@ -41,7 +41,7 @@
   font-style: oblique;
 }
 #img-caption{
-  font-size: 40px;
+  font-size: 30px;
   color: #333399;
   font-weight: bold;
   font-family:Impact;
@@ -63,6 +63,11 @@
   color: #D03381;
   font-weight: lighter;
   font-family:Impact;
+}
+
+#image{
+  max-width: 500px;
+  display: block;
 }
 .center{
   margin: auto;
